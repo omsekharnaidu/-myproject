@@ -18,7 +18,7 @@
       "value": "naiduhouse-webapp"
     },
     "sqlserverName": {
-      "value": "naiduhouse-sql"
+      "value": "naiduhouse"
     }
   }
 }
