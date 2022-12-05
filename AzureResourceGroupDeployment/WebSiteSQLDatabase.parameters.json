@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "naiduhouse-service-plan"
     },
     "administratorLogin": {
       "value": "naidu"
@@ -12,7 +12,7 @@
       "value": "Welcome@12345"
     },
     "databaseName": {
-      "value": "EmployeesDB"
+      "value": "naidudb"
     },
     "webSiteName": {
       "value": "naiduhouse-webapp"
