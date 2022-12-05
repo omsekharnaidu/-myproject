@@ -15,10 +15,10 @@
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "naiduhouse-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "naiduhouse-sql"
     }
   }
 }
