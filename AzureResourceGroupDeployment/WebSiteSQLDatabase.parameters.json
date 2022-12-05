@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "naiduhouse-service-plan"
+      "value": "naiduhome-service-plan"
     },
     "administratorLogin": {
       "value": "naidu"
@@ -12,13 +12,13 @@
       "value": "Welcome@12345"
     },
     "databaseName": {
-      "value": "naidudb"
+      "value": "naidudbhome"
     },
     "webSiteName": {
-      "value": "naiduhouse-webapp"
+      "value": "naiduhome-webapp"
     },
     "sqlserverName": {
-      "value": "naiduhouse"
+      "value": "naiduhome"
     }
   }
 }
